@@ -1,0 +1,511 @@
+Marque,Modele,Prix,Kilometrage,Puissance,Carburant,Annee
+,,1000000,39707 km,130,Diesel,2022.0
+BMW,Sandero,10,156409 km,200ch,Diesel,2018.0
+Dacia,Sandero,77k€,1000000 km,200ch,,2018.0
+Tesla,500,,202576 km,90ch,Diesel,2017.0
+,Model 3,,183686 km,,Diesel,2019.0
+Fiat,Clio,17000,227500,150ch,Diesel,2015.0
+,500,,96155 km,200ch,Diesel,2007.0
+Dacia,A3,39k€,5281 km,100,Diesel,2000.0
+,500,,163492,110ch,nan,2016.0
+Peugeot,208,73k€,216968 km,150ch,Diesel,2011.0
+Audi,Clio,51k€,,90ch,Essence,2020.0
+Tesla,208,29000,,130,Essence,
+Audi,Model 3,70000,222285,150ch,Electrique,2004.0
+Audi,Classe A,14000,81260 km,150ch,Diesel,2011.0
+Fiat,208,60k€,164476 km,150ch,Hybride,2016.0
+Dacia,A3,34k€,239554 km,150ch,Essence,2005.0
+BMW,500,9k€,241356 km,110ch,Essence,2000.0
+Fiat,Classe A,37000,,130,Essence,2004.0
+Fiat,500,69000,145272 km,130,Hybride,
+Audi,208,22k€,69178 km,130,Diesel,2013.0
+Mercedes,500,53000,38997,200ch,Essence,2004.0
+Dacia,Model 3,15000,161683 km,100,,2021.0
+Peugeot,Classe A,30k€,124273,130,Essence,
+Fiat,,,177307 km,150ch,nan,2000.0
+BMW,208,63k€,171129 km,150ch,Diesel,2017.0
+Mercedes,Model 3,31k€,137311,130,nan,2015.0
+Mercedes,A3,53k€,239746,130,Diesel,2008.0
+Peugeot,208,37k€,201733 km,,Diesel,2018.0
+Fiat,208,5000,131945 km,,Diesel,2021.0
+BMW,208,25000,50272,90ch,Diesel,2004.0
+Dacia,Clio,59000,94393 km,90ch,Essence,2001.0
+Renault,500,10000,66212,130,Diesel,2014.0
+,,73k€,,,Diesel,2006.0
+Peugeot,Clio,,125030 km,130,Electrique,
+,A3,7000,61503,130,Hybride,2000.0
+Dacia,Classe A,57000,142710,90ch,Hybride,2012.0
+BMW,500,27000,11570,150ch,Hybride,2019.0
+Renault,Model 3,57k€,73785 km,130,,2021.0
+Renault,Sandero,41000,14110,,Diesel,2006.0
+Audi,208,,241971 km,150ch,Diesel,2014.0
+Audi,Model 3,78000,84141,110ch,Essence,2022.0
+Tesla,208,21k€,17115 km,150ch,Diesel,2013.0
+Peugeot,A3,77k€,44062 km,90ch,Essence,2022.0
+Fiat,208,5000,,200ch,Diesel,2018.0
+BMW,Clio,55k€,109061 km,200ch,Diesel,2021.0
+BMW,500,49000,37556 km,100,Essence,2023.0
+,Sandero,8000,214203 km,130,Essence,2019.0
+Tesla,Serie 1,66k€,133335 km,90ch,Essence,2023.0
+Mercedes,,69000,6969 km,150ch,Essence,2017.0
+Mercedes,Model 3,36000,48753,,Diesel,2009.0
+Tesla,,38k€,218883 km,90ch,Diesel,2008.0
+Mercedes,Serie 1,76000,,200ch,Hybride,2024.0
+Audi,,43k€,,150ch,,2007.0
+BMW,Serie 1,30000,15225 km,200ch,,2009.0
+Tesla,Clio,38k€,,130,Hybride,2016.0
+BMW,500,,128008 km,130,Diesel,2001.0
+Fiat,500,7k€,243582 km,100,Essence,2005.0
+Renault,Classe A,54k€,244367 km,100,Diesel,2004.0
+Audi,500,16000,159268,200ch,Essence,2008.0
+Dacia,Classe A,69k€,110823 km,,Essence,2004.0
+Audi,Serie 1,58000,18669 km,130,Diesel,2017.0
+Tesla,A3,9000,173452,90ch,Hybride,2019.0
+Dacia,Model 3,,129398,90ch,Essence,
+Renault,Model 3,21k€,115677 km,200ch,Diesel,2016.0
+Tesla,Serie 1,51000,53320,90ch,Diesel,2016.0
+,208,27k€,183486 km,130,Diesel,2011.0
+,208,18k€,239614,150ch,Diesel,2006.0
+Renault,500,70k€,151649,100,Essence,2002.0
+BMW,Model 3,79000,130354,150ch,Hybride,2009.0
+Mercedes,Model 3,55k€,93009 km,90ch,,2001.0
+Peugeot,Classe A,42000,191481 km,150ch,Diesel,2024.0
+Peugeot,A3,68000,33625 km,130,Diesel,2002.0
+Renault,Clio,42000,217112 km,130,Diesel,2015.0
+Peugeot,208,54000,29089,90ch,Essence,2001.0
+Dacia,Model 3,34k€,41487 km,,Essence,2023.0
+Peugeot,Classe A,55k€,201910 km,150ch,Diesel,2009.0
+BMW,Sandero,67000,233071 km,,Essence,2005.0
+BMW,Classe A,56000,115448,200ch,Hybride,2021.0
+Tesla,208,42000,230867 km,110ch,Essence,2010.0
+,208,,55138,90ch,Hybride,2022.0
+Tesla,Classe A,55k€,178895 km,100,Essence,2006.0
+BMW,,9000,173280 km,130,Essence,2014.0
+Dacia,Serie 1,33000,59061 km,130,Essence,
+Fiat,,8000,166731 km,90ch,Essence,2019.0
+Tesla,Classe A,14k€,106376 km,,Diesel,2008.0
+Audi,Model 3,60k€,,130,,2021.0
+Mercedes,Classe A,21k€,84134 km,90ch,Diesel,2019.0
+Renault,A3,78k€,52055 km,130,Essence,2011.0
+BMW,Serie 1,21k€,248341 km,200ch,Diesel,2018.0
+Peugeot,Sandero,73000,24508 km,150ch,Electrique,2019.0
+Fiat,Clio,,178359 km,150ch,,2002.0
+,,10k€,214988 km,130,Essence,2014.0
+Peugeot,Sandero,57k€,163056 km,110ch,Diesel,2001.0
+Mercedes,Serie 1,70k€,115169,100,,2020.0
+Mercedes,Serie 1,47k€,13125 km,,Hybride,2001.0
+Mercedes,Serie 1,79k€,41059,100,,
+,Sandero,27k€,,200ch,Diesel,2002.0
+BMW,Model 3,59k€,108409 km,100,Essence,2005.0
+Mercedes,Serie 1,79k€,153159 km,150ch,Diesel,2014.0
+,Classe A,20k€,242509 km,200ch,Diesel,2009.0
+Tesla,Sandero,12000,10704 km,90ch,Essence,
+Peugeot,500,8k€,196648 km,,Essence,2000.0
+Peugeot,Serie 1,8000,209456 km,100,Essence,2015.0
+BMW,Classe A,60k€,223200,90ch,Hybride,2005.0
+,Model 3,29k€,116279 km,100,Essence,2008.0
+Peugeot,A3,71k€,208532,90ch,Essence,2003.0
+Mercedes,Model 3,71000,,200ch,Diesel,2001.0
+BMW,500,31000,123516 km,150ch,Electrique,2003.0
+Mercedes,Serie 1,36000,221222 km,90ch,Diesel,2000.0
+Tesla,500,54k€,202096,110ch,Electrique,2018.0
+Fiat,Sandero,65000,175954,,,2024.0
+Tesla,208,55000,161995 km,100,Diesel,2009.0
+Fiat,Serie 1,23000,119044,,Essence,
+Mercedes,208,,237549,130,Hybride,2014.0
+Tesla,Classe A,9k€,34165,200ch,Essence,2021.0
+BMW,A3,46000,72203 km,130,Electrique,2018.0
+Renault,Clio,65000,227821 km,90ch,Electrique,2015.0
+Mercedes,500,26k€,9114 km,150ch,Essence,2020.0
+Fiat,Model 3,25k€,201037,110ch,Diesel,2023.0
+Dacia,A3,74k€,41321 km,200ch,Electrique,2021.0
+,Serie 1,5000,78297 km,100,Essence,
+,208,9k€,101652 km,130,Diesel,
+Peugeot,Model 3,16000,104304,100,Diesel,2024.0
+Tesla,,50k€,161498,150ch,Essence,2012.0
+Dacia,Sandero,38k€,,130,,2000.0
+Fiat,208,53000,108754 km,200ch,Hybride,2016.0
+Peugeot,Sandero,49000,8712 km,90ch,Essence,2012.0
+Renault,Classe A,31k€,137439,100,Diesel,2003.0
+BMW,Model 3,77k€,242565,150ch,Diesel,2006.0
+BMW,Model 3,30k€,243389,200ch,Hybride,2016.0
+BMW,Clio,51k€,120142 km,200ch,Diesel,2008.0
+Dacia,Serie 1,60k€,96736,200ch,Diesel,2003.0
+Renault,Sandero,67k€,56924 km,,Diesel,2018.0
+Dacia,Clio,52000,8726 km,130,Essence,2000.0
+Tesla,208,65k€,94152 km,,Electrique,2009.0
+Dacia,208,30000,32723,100,Diesel,
+Renault,Clio,40000,131969,150ch,Essence,2008.0
+Renault,Model 3,5k€,239182 km,130,Essence,2012.0
+Tesla,208,12000,,200ch,nan,2013.0
+Renault,500,56000,,110ch,Diesel,2009.0
+Fiat,Classe A,51000,213786 km,,Essence,2005.0
+Renault,Classe A,60k€,40643,150ch,,2015.0
+BMW,500,,167396 km,,Hybride,
+Fiat,Clio,32000,108896 km,90ch,Essence,2016.0
+Fiat,500,6000,219432,130,Diesel,2009.0
+Tesla,Sandero,30000,246968 km,130,Essence,2017.0
+Audi,Sandero,18000,144999 km,130,Essence,2021.0
+Audi,Clio,63000,98680 km,90ch,Diesel,2017.0
+Renault,500,60k€,,110ch,Hybride,2002.0
+Fiat,Sandero,11000,158515 km,90ch,Diesel,2019.0
+Audi,Model 3,7000,84973 km,100,Essence,2020.0
+Audi,500,27000,68449,200ch,Essence,2024.0
+Renault,Model 3,22000,114834 km,,Essence,2014.0
+Audi,,42k€,241386 km,110ch,,2014.0
+Dacia,Classe A,19k€,212815,150ch,Hybride,2003.0
+Peugeot,Sandero,68000,,150ch,Essence,2008.0
+Tesla,Model 3,32000,30537 km,200ch,Essence,2018.0
+Peugeot,A3,78000,237365 km,110ch,Essence,2023.0
+Renault,Serie 1,43k€,,90ch,Essence,2016.0
+BMW,208,61k€,112522 km,,Diesel,2010.0
+Tesla,500,21k€,27612,100,Diesel,
+Renault,A3,48000,,100,Electrique,2008.0
+Fiat,Sandero,29k€,11471,90ch,,2009.0
+BMW,Classe A,21000,171703 km,150ch,Essence,2017.0
+Peugeot,,,245069 km,130,nan,2019.0
+Renault,Sandero,29000,228131,150ch,Diesel,2012.0
+Fiat,Classe A,72000,,,Essence,2007.0
+Tesla,Serie 1,14k€,200804 km,200ch,Essence,2006.0
+Tesla,,71k€,,90ch,Essence,2016.0
+Mercedes,Model 3,22000,140832 km,100,Diesel,2020.0
+Fiat,Clio,38k€,37779,100,Diesel,2022.0
+Dacia,Classe A,12k€,,,Essence,2014.0
+Audi,Classe A,44k€,86889 km,90ch,Hybride,2019.0
+BMW,Classe A,46k€,58551 km,130,Essence,2014.0
+Fiat,Serie 1,45k€,147628 km,90ch,Essence,
+Mercedes,Sandero,10k€,,130,Diesel,2024.0
+Audi,Serie 1,56k€,147635 km,150ch,Essence,2013.0
+Audi,500,30000,51819,200ch,Diesel,2004.0
+Renault,208,68000,245398 km,200ch,Electrique,2010.0
+,208,63k€,78770 km,90ch,Hybride,2015.0
+Dacia,500,60000,227127 km,110ch,Essence,2001.0
+Tesla,Sandero,63k€,163038,100,Electrique,2007.0
+Mercedes,Model 3,74000,217781,100,Diesel,
+Audi,Serie 1,37000,,90ch,,2017.0
+,,57000,,130,Diesel,2002.0
+Dacia,Classe A,26000,83714 km,110ch,Electrique,2000.0
+Peugeot,Classe A,25k€,240946,150ch,Diesel,2010.0
+Tesla,Sandero,74k€,194420 km,,Essence,2015.0
+Tesla,Model 3,,29596 km,130,Hybride,2017.0
+,208,8k€,169246 km,,Diesel,
+Tesla,208,,69106 km,90ch,,2022.0
+Audi,Classe A,,243582 km,100,Essence,2009.0
+Renault,,66k€,206039 km,90ch,Essence,2017.0
+Tesla,Serie 1,28k€,,90ch,Diesel,
+Tesla,208,59000,229372 km,90ch,Diesel,2018.0
+,Serie 1,,92163 km,,Diesel,2003.0
+Peugeot,Model 3,7000,44310 km,150ch,Hybride,2012.0
+BMW,208,35k€,61088 km,150ch,Essence,2023.0
+Dacia,208,44k€,133803 km,90ch,Diesel,2013.0
+Audi,A3,40000,144978,100,Diesel,2002.0
+Tesla,208,28k€,,150ch,Diesel,2009.0
+Fiat,500,10k€,115350,130,,2005.0
+Tesla,Clio,70000,50379,150ch,Essence,2000.0
+Renault,,79k€,,150ch,Diesel,2022.0
+,Sandero,8k€,,100,Diesel,2023.0
+Dacia,Sandero,10000,182953,130,Essence,
+Fiat,,55000,,100,Diesel,2007.0
+BMW,500,66000,,90ch,Essence,2018.0
+Mercedes,500,61000,186187,200ch,Essence,2013.0
+Dacia,500,,12151 km,150ch,Essence,2009.0
+Tesla,Model 3,79k€,62716 km,200ch,Essence,2016.0
+Tesla,208,12000,98747 km,100,Essence,2008.0
+,Clio,30000,228725,,Hybride,2005.0
+Tesla,Serie 1,55k€,172450 km,100,Essence,2010.0
+Audi,,49k€,,200ch,Essence,2024.0
+Dacia,500,48000,208502 km,100,Hybride,2006.0
+BMW,A3,9000,149539,90ch,Essence,2016.0
+Dacia,Serie 1,74000,167082 km,,Diesel,2000.0
+Fiat,,30k€,126999,110ch,Diesel,2021.0
+Tesla,Serie 1,72000,119793 km,200ch,Diesel,2004.0
+,208,23k€,190763,110ch,Hybride,2008.0
+Audi,A3,24k€,200229 km,100,Essence,
+Mercedes,Serie 1,16000,113177 km,90ch,Electrique,2023.0
+BMW,Clio,51k€,17289 km,150ch,Essence,2020.0
+Peugeot,Clio,5k€,181048,130,,2001.0
+Peugeot,Sandero,18000,179668 km,130,Diesel,2010.0
+Dacia,A3,68k€,159243 km,100,Essence,2005.0
+Mercedes,A3,42k€,,90ch,Essence,2007.0
+Renault,Sandero,,,200ch,nan,
+Dacia,Serie 1,15k€,,,Diesel,2017.0
+Mercedes,A3,7k€,119014 km,110ch,Essence,2010.0
+BMW,Clio,37k€,180211 km,110ch,Essence,2004.0
+BMW,Clio,10k€,184785 km,,,2014.0
+BMW,500,54k€,165806 km,130,Essence,2017.0
+BMW,208,,77588 km,90ch,,2001.0
+BMW,A3,,68646 km,200ch,Diesel,2021.0
+Mercedes,Serie 1,27000,8654,110ch,Essence,2010.0
+Mercedes,Sandero,14000,225094 km,100,Essence,2024.0
+Audi,Sandero,48000,,150ch,Hybride,2012.0
+Fiat,Serie 1,6000,53368 km,200ch,Hybride,2003.0
+,Model 3,17000,226097,200ch,,2021.0
+Tesla,Classe A,44k€,210244 km,90ch,Diesel,2006.0
+,208,6000,142513 km,90ch,nan,2010.0
+Renault,Sandero,69k€,124735 km,200ch,Essence,
+Tesla,A3,67000,160683,110ch,Electrique,2023.0
+Mercedes,208,77k€,124891 km,150ch,Diesel,2003.0
+Renault,A3,21k€,112971 km,90ch,Essence,2014.0
+Renault,Model 3,13000,17149 km,110ch,Hybride,2000.0
+Renault,Clio,79k€,105102 km,100,,2022.0
+Audi,208,19000,64189 km,,Diesel,2002.0
+Mercedes,500,28k€,243976 km,110ch,Essence,2013.0
+Renault,Sandero,42000,157747,110ch,,2005.0
+BMW,208,39k€,76031 km,150ch,,2017.0
+Dacia,208,53000,,150ch,Essence,2024.0
+Renault,208,73k€,149745,100,Essence,2000.0
+Audi,Classe A,66k€,212738,,Electrique,
+Tesla,208,64000,93204 km,130,Essence,
+Mercedes,A3,,216830 km,110ch,Diesel,2020.0
+Fiat,Clio,79000,201501 km,150ch,Diesel,2015.0
+Audi,Model 3,13000,159741 km,130,Essence,2004.0
+Renault,,38k€,170140 km,90ch,Diesel,2016.0
+Mercedes,208,39000,224861 km,90ch,Essence,2009.0
+,Sandero,5000,145507,200ch,Diesel,2020.0
+Renault,208,44000,230160 km,150ch,Electrique,2017.0
+Audi,Sandero,,,200ch,nan,2006.0
+Peugeot,,26000,,130,Essence,2002.0
+BMW,Sandero,64000,86929,,Electrique,2012.0
+Fiat,500,68000,132959 km,100,Essence,2014.0
+Tesla,Serie 1,76000,81153 km,110ch,,2019.0
+Audi,Clio,15k€,240128 km,100,Diesel,2018.0
+,Sandero,18000,,130,Essence,2002.0
+Fiat,Sandero,64000,36401 km,150ch,,2003.0
+Fiat,Clio,34k€,207903 km,130,Hybride,2004.0
+Fiat,,39k€,124503 km,110ch,Essence,2000.0
+Renault,,41000,237601 km,90ch,Hybride,2003.0
+BMW,Sandero,9k€,132834,,Essence,2011.0
+Renault,Clio,30k€,39084 km,130,Diesel,2023.0
+Mercedes,500,66000,,200ch,nan,2009.0
+Renault,500,8k€,110111 km,150ch,Essence,2022.0
+Peugeot,,46k€,191898 km,,Diesel,2024.0
+BMW,Clio,22000,172523 km,,Essence,2020.0
+,A3,,143299,100,Diesel,2019.0
+Mercedes,500,76000,167982 km,110ch,Essence,2023.0
+Tesla,Serie 1,43k€,41041 km,100,Essence,
+,208,18k€,93920,100,Essence,2012.0
+,Clio,36k€,70681,130,nan,2022.0
+Renault,Model 3,55000,239386 km,90ch,Essence,2013.0
+Dacia,500,42k€,86571,90ch,Diesel,2022.0
+Renault,500,27k€,201553 km,90ch,Essence,2004.0
+Fiat,Model 3,67000,204648,130,Electrique,2003.0
+Renault,Classe A,19000,244030 km,200ch,Diesel,2013.0
+Audi,500,29k€,132556,100,Diesel,2009.0
+,Sandero,21000,200246 km,130,Diesel,2016.0
+Peugeot,Serie 1,70k€,31160 km,150ch,Diesel,2009.0
+Peugeot,,57000,22633 km,110ch,Hybride,2006.0
+BMW,Model 3,55000,230952,200ch,Essence,2015.0
+Mercedes,Sandero,43000,22014 km,150ch,Diesel,2000.0
+Tesla,Model 3,55000,85532 km,100,Essence,2016.0
+Dacia,Clio,74k€,54104 km,90ch,Diesel,2020.0
+Fiat,A3,,177693,100,nan,2008.0
+Renault,Clio,71k€,82231,130,,2005.0
+Renault,Classe A,,73388 km,110ch,,2018.0
+Audi,Clio,55k€,21014 km,,,2012.0
+Mercedes,Clio,,97578 km,200ch,,2002.0
+Peugeot,Classe A,46k€,169827 km,200ch,Diesel,2006.0
+Dacia,Serie 1,68k€,45390 km,110ch,Diesel,2021.0
+BMW,500,19000,28711,150ch,Essence,2008.0
+Peugeot,Clio,33000,96658 km,150ch,Essence,2021.0
+Fiat,Classe A,37k€,62993,200ch,nan,2004.0
+Mercedes,Sandero,31k€,210768 km,,Essence,2009.0
+Fiat,A3,40000,163285 km,90ch,Hybride,
+Tesla,A3,33k€,241028 km,,Essence,2016.0
+BMW,Clio,,193856,110ch,Hybride,2011.0
+Tesla,Serie 1,61k€,12421,150ch,Essence,2022.0
+Audi,Serie 1,31k€,223008,90ch,Diesel,2015.0
+Fiat,Sandero,59k€,235145,130,Essence,
+,Clio,37000,22727,200ch,Hybride,2024.0
+Renault,A3,72000,117418 km,200ch,Diesel,2021.0
+Tesla,Serie 1,70000,9358,90ch,,2008.0
+Mercedes,Clio,14k€,,,Diesel,2014.0
+Fiat,Model 3,9k€,99018 km,200ch,Essence,2004.0
+Dacia,Serie 1,78000,129457 km,,Hybride,2022.0
+BMW,Classe A,42k€,168189 km,200ch,Diesel,2012.0
+Peugeot,Model 3,17k€,224772,100,Diesel,2013.0
+,500,35k€,36910 km,90ch,Essence,2019.0
+Mercedes,Serie 1,51000,131888,90ch,,2014.0
+Audi,A3,56k€,234104,200ch,Diesel,2015.0
+Tesla,208,60000,60754 km,150ch,,2022.0
+Fiat,Model 3,,198510,100,Diesel,2012.0
+Fiat,500,33000,114847 km,110ch,nan,2016.0
+Renault,Sandero,12000,165443 km,200ch,nan,
+Renault,Sandero,9000,187573 km,110ch,,2007.0
+BMW,,33k€,197018 km,,Essence,2020.0
+Audi,Serie 1,51000,43467,150ch,,2001.0
+,Clio,72k€,153697 km,150ch,Essence,2004.0
+Fiat,Serie 1,49000,38893 km,150ch,Diesel,2005.0
+Dacia,,6k€,81329 km,130,Diesel,2011.0
+Audi,Sandero,,36007 km,150ch,Diesel,2017.0
+BMW,Serie 1,40000,,90ch,Essence,2021.0
+BMW,Sandero,40000,175604 km,90ch,,2021.0
+Audi,,30000,59253,130,Essence,2000.0
+BMW,,47k€,,100,nan,2016.0
+Audi,Clio,31k€,116335 km,110ch,Diesel,2010.0
+Peugeot,Model 3,73000,117356,200ch,,
+,Sandero,,115944 km,200ch,Essence,
+Tesla,Sandero,15000,209451,130,Hybride,2013.0
+Audi,208,78000,150282 km,90ch,Electrique,2009.0
+BMW,208,42k€,21456 km,200ch,,2014.0
+Fiat,Model 3,10000,36367 km,90ch,nan,2018.0
+Tesla,Classe A,76k€,59624 km,100,Diesel,2003.0
+BMW,Model 3,27000,146178 km,110ch,Hybride,2001.0
+Renault,208,51k€,239565,100,Essence,2008.0
+,Sandero,,73008,130,Diesel,2009.0
+Fiat,A3,16000,130926,150ch,nan,2010.0
+Fiat,Model 3,17k€,120395,150ch,Diesel,2013.0
+Tesla,Sandero,66000,121492 km,150ch,Essence,2006.0
+Peugeot,A3,64k€,77240 km,100,,2022.0
+Fiat,A3,47k€,69315 km,200ch,Essence,
+Renault,208,72k€,205321,110ch,Essence,2021.0
+Audi,Model 3,9k€,206659 km,150ch,Essence,
+BMW,Serie 1,41k€,15756 km,130,Essence,
+Renault,,76k€,204083,,Diesel,2014.0
+Renault,208,35k€,41378 km,150ch,Hybride,
+Peugeot,208,13k€,140327 km,150ch,Diesel,2007.0
+Tesla,Serie 1,55000,,110ch,Essence,2010.0
+Tesla,Clio,33000,130703 km,150ch,Electrique,2008.0
+Mercedes,Sandero,44k€,61549 km,110ch,Hybride,2014.0
+,Classe A,45000,170575,130,Essence,2000.0
+Audi,,15000,78794 km,150ch,Essence,2000.0
+Tesla,Classe A,27000,242355 km,100,Hybride,2018.0
+BMW,Sandero,5000,236804 km,100,Hybride,2002.0
+Fiat,500,50k€,50113 km,130,Essence,2009.0
+Peugeot,208,,241802 km,110ch,,2007.0
+Fiat,Clio,40000,79069 km,100,Diesel,2014.0
+Renault,208,58k€,234189 km,110ch,,2009.0
+,A3,,141321,100,Essence,2000.0
+,208,5000,155273 km,100,Diesel,2017.0
+Renault,208,67k€,130541 km,,Essence,2001.0
+Peugeot,Sandero,58000,194648 km,200ch,Diesel,2018.0
+,Sandero,,14686,100,,2012.0
+Fiat,Sandero,44k€,248485 km,150ch,Hybride,2021.0
+Mercedes,Classe A,19000,58363,130,Essence,2000.0
+BMW,A3,25k€,102543,200ch,Diesel,2001.0
+Dacia,,51k€,136733,110ch,Hybride,2015.0
+Dacia,500,77000,180915 km,200ch,Diesel,2014.0
+Fiat,Sandero,57k€,100673 km,90ch,Essence,2012.0
+Audi,Clio,13k€,197035 km,90ch,Essence,2015.0
+Tesla,Classe A,78000,249164,100,Diesel,2016.0
+,Serie 1,56k€,47828 km,100,Hybride,2020.0
+Renault,Clio,61k€,53604 km,150ch,Essence,2006.0
+Audi,Model 3,30k€,15526 km,130,Essence,2023.0
+Audi,Model 3,45k€,73910,200ch,Diesel,2016.0
+Fiat,Clio,39000,30592 km,90ch,Diesel,2006.0
+Fiat,,67k€,33982 km,100,Electrique,2012.0
+Audi,Serie 1,29k€,5207 km,130,Diesel,
+BMW,Serie 1,79k€,237041,200ch,Essence,2016.0
+Fiat,Classe A,42k€,93733,100,Essence,2002.0
+Mercedes,,6k€,235008 km,100,Essence,2006.0
+Fiat,Model 3,11000,129982 km,90ch,Diesel,2016.0
+Renault,A3,,,90ch,Diesel,2006.0
+Fiat,,,,100,Essence,
+,Serie 1,47k€,51479,110ch,Diesel,2000.0
+Audi,Classe A,,244499 km,100,Diesel,2016.0
+Renault,Model 3,55000,156175 km,130,Diesel,2016.0
+Fiat,A3,58000,175963 km,100,Essence,2010.0
+BMW,208,28000,146826 km,150ch,,2024.0
+Mercedes,208,29000,236055 km,,Diesel,2002.0
+Fiat,A3,75k€,,150ch,Diesel,2014.0
+BMW,,56k€,103540 km,110ch,Diesel,2020.0
+Mercedes,,74k€,77982,110ch,Essence,2010.0
+Audi,A3,37000,107747 km,100,,2015.0
+Fiat,Sandero,53k€,,150ch,Essence,2024.0
+Mercedes,,33000,53231 km,110ch,Essence,2021.0
+Renault,,67000,34301 km,90ch,Essence,2008.0
+Audi,Serie 1,26k€,227724 km,100,Hybride,2023.0
+Renault,Classe A,30k€,198783 km,130,Hybride,2023.0
+Dacia,208,32000,177395 km,200ch,Diesel,2000.0
+Peugeot,Serie 1,53000,23752,100,Diesel,2024.0
+,Serie 1,75000,233984 km,,Diesel,2021.0
+Mercedes,500,,218277 km,150ch,Diesel,2015.0
+Peugeot,Sandero,24k€,103452 km,200ch,nan,2008.0
+Peugeot,Model 3,67000,149467 km,150ch,Essence,2018.0
+Mercedes,Clio,,222029 km,,Diesel,2011.0
+Audi,Model 3,53000,126237,200ch,Essence,2018.0
+Fiat,Clio,,61273 km,100,Essence,2021.0
+Dacia,A3,5000,96878,150ch,Diesel,2008.0
+,Sandero,17000,9895,100,,2006.0
+BMW,Serie 1,,124968,110ch,Essence,2013.0
+Renault,,60000,120700 km,150ch,Essence,2018.0
+BMW,Clio,66k€,81559 km,200ch,Diesel,2018.0
+,Model 3,,15699,150ch,Diesel,2001.0
+Mercedes,,34k€,201133 km,100,Essence,2008.0
+,Clio,33000,14715 km,90ch,Diesel,2012.0
+Fiat,Clio,53k€,,150ch,Essence,2014.0
+BMW,500,49k€,123413 km,200ch,Essence,2002.0
+Fiat,Clio,34k€,152235 km,110ch,Diesel,2010.0
+Fiat,Classe A,20k€,124264 km,130,Electrique,2020.0
+Fiat,Sandero,44k€,10782 km,90ch,Essence,2013.0
+Tesla,Classe A,23k€,224249 km,110ch,Diesel,2024.0
+Audi,208,22k€,129481 km,150ch,Essence,2007.0
+Renault,Serie 1,5k€,220400 km,100,Essence,
+Fiat,Sandero,51000,40585 km,100,Essence,2018.0
+Renault,500,,35682,,Diesel,2015.0
+Fiat,Sandero,42k€,183936 km,100,nan,2001.0
+BMW,Sandero,55k€,134992 km,90ch,Essence,2007.0
+Audi,Model 3,,89416,100,,2021.0
+,Sandero,8k€,191186,200ch,Diesel,2005.0
+Mercedes,500,5k€,132810 km,130,Diesel,
+Tesla,Classe A,12000,43067 km,150ch,Hybride,
+Mercedes,Sandero,33000,178757 km,150ch,Diesel,2024.0
+Mercedes,,59000,,,Diesel,2007.0
+Mercedes,Serie 1,7000,41035,,Hybride,
+Mercedes,Sandero,36k€,201049 km,150ch,,2014.0
+Mercedes,Serie 1,14000,238782,130,Diesel,2019.0
+,A3,78k€,95373 km,100,Diesel,2024.0
+Audi,A3,38000,88362 km,,Diesel,2016.0
+Mercedes,,59k€,95517 km,130,Diesel,
+Fiat,Clio,36k€,70450 km,100,Essence,2017.0
+Audi,208,54000,15382 km,130,Diesel,
+Audi,Model 3,,140509 km,150ch,Diesel,2012.0
+Peugeot,Clio,,207043 km,200ch,Essence,2012.0
+Dacia,Clio,69000,200684 km,100,Essence,2021.0
+,,,226427 km,90ch,Essence,2014.0
+Renault,Model 3,71000,66929 km,200ch,Essence,
+BMW,Model 3,63000,238483 km,90ch,Diesel,2009.0
+Tesla,Clio,76k€,233590 km,130,Essence,
+Fiat,,58k€,103864,110ch,Essence,
+Renault,Classe A,71k€,148401 km,200ch,Diesel,2002.0
+Dacia,Classe A,55000,30169 km,130,Electrique,2021.0
+BMW,A3,12k€,92468,90ch,Diesel,2013.0
+,500,,39594,,Essence,2007.0
+Fiat,Model 3,39000,213029,150ch,Diesel,2022.0
+Audi,Clio,36k€,196703 km,110ch,Essence,
+BMW,A3,50000,50033 km,200ch,,2019.0
+Audi,,20k€,68133 km,200ch,Hybride,2010.0
+Fiat,208,72k€,209237 km,200ch,Diesel,2010.0
+Renault,500,,78861 km,130,Essence,2010.0
+Fiat,500,58000,188362 km,110ch,Essence,2001.0
+Renault,500,18000,230103 km,200ch,Essence,2016.0
+BMW,Classe A,59k€,36750 km,130,Essence,2008.0
+BMW,Serie 1,52000,231227 km,150ch,Essence,2001.0
+Mercedes,500,11000,45461 km,90ch,Essence,2023.0
+Dacia,,78000,209872,130,Diesel,2014.0
+Mercedes,Sandero,11k€,83222 km,150ch,,2015.0
+Dacia,500,37000,117020 km,150ch,Diesel,2024.0
+Mercedes,208,27000,29226 km,90ch,nan,2003.0
+Audi,Serie 1,23k€,11721,150ch,Essence,2007.0
+BMW,Serie 1,23k€,192226,110ch,nan,
+Renault,208,40000,25609 km,90ch,Diesel,2004.0
+Dacia,500,33000,188202,150ch,Hybride,
+Fiat,,64000,135513 km,100,,
+Dacia,Serie 1,6k€,,130,Essence,
+,208,5000,109211 km,150ch,Essence,2019.0
+Mercedes,,51k€,191321 km,110ch,Diesel,2016.0
+Dacia,Serie 1,73k€,184967 km,200ch,Hybride,2002.0
+Tesla,,24k€,230545 km,150ch,Essence,2004.0
+Audi,Clio,15000,141728,200ch,Diesel,2018.0
+BMW,Serie 1,6k€,129865,100,Diesel,2011.0
+Renault,,71k€,79520 km,150ch,Electrique,2006.0
+BMW,A3,16k€,199812 km,90ch,Hybride,
+,,1000000,39707 km,130,Diesel,2022.0
+BMW,Sandero,10,156409 km,200ch,Diesel,2018.0
+Dacia,Sandero,77k€,1000000 km,200ch,,2018.0
+Tesla,500,,202576 km,90ch,Diesel,2017.0
+,Model 3,,183686 km,,Diesel,2019.0
+Fiat,Clio,17000,227500,150ch,Diesel,2015.0
+,500,,96155 km,200ch,Diesel,2007.0
+Dacia,A3,39k€,5281 km,100,Diesel,2000.0
+,500,,163492,110ch,nan,2016.0
+Peugeot,208,73k€,216968 km,150ch,Diesel,2011.0
